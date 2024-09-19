@@ -1,4 +1,4 @@
-# My Android App Project
+# Star Wars Info Application
 
 This project is a personal project of mine where I practiced key Android and Mobile App Development skills. It is a app that sends a GET request to the SWAPI and gets information about several Star Wars Characters in that API
 
