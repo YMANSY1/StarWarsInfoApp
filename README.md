@@ -41,6 +41,6 @@ This project helped me gain hands-on experience with:
 
 ## Future Improvements
 
-- Implement the searchbar as it is currently still not function
-- Implement a settings tab to allow user to switch to dark mode in app
+- Implement the searchbar as it is currently still not functional
+- Implement a settings tab to allow user to switch to dark mode in app 
 - Polish the UI especially after clicking on the character names
